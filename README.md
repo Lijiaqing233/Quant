@@ -1,9 +1,7 @@
 这是一个完全自主的AI量化交易系统，使用DeepSeek AI进行决策，在OKX交易所执行加密货币交易。
 --------------------------------------
-核心架构
-数据采集层 → AI决策层 → 交易执行层
-    ↓           ↓           ↓
-市场数据    DeepSeek AI    OKX API
+<img width="548" height="79" alt="image" src="https://github.com/user-attachments/assets/e5d4faed-8a2f-47df-bdbb-84d08b3af424" />
+
 --------------------------------------
 主要功能模块
 
